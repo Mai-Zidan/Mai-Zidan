@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Mai-Zidan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @
+- Hey, my name is Mai Zidan 👋
+I work as a Data & Analytics Analyst. I have a Bachelor’s degree in Commerce and Business Adminstration.
 
-<!---
-Mai-Zidan/Mai-Zidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I really enjoy connecting with like-minded data people, sharing my skills, experience and personal journey within the world of data.
+
+Find me on LinkedIn 
